@@ -5,51 +5,51 @@ import ProjectCard from './ProjectCard';
 const Projects = () => {
   const projectData = [
     {
-      videoSrc: '/videos/GameVid.mp4',
-      description: 'Note: just testing currently',
+      videoSrc: '',
+      description: 'Note: Nothing here yet...',
       links: [
-        { text: 'More Info', href: 'https://example.com/project1' },
-        { text: 'GitHub', href: 'https://github.com/chanthakoun2002/game-dev-project-2d-isometric-rpg' }
+        { text: 'More Info', href: 'https://example.com' },
+        { text: 'GitHub', href: '' }
       ]
     },
     {
-      videoSrc: '/videos/GameVid.mp4',
-      description: 'Note: just testing currently',
+      videoSrc: '',
+      description: 'Note: Nothing here yet...',
       links: [
-        { text: 'More Info', href: 'https://example.com/project1' },
-        { text: 'GitHub', href: 'https://github.com/chanthakoun2002/game-dev-project-2d-isometric-rpg' }
+        { text: 'More Info', href: 'https://example.com' },
+        { text: 'GitHub', href: '' }
       ]
     },
     {
-      videoSrc: '/videos/GameVid.mp4',
-      description: 'Note: just testing currently',
+      videoSrc: '',
+      description: 'Note: Nothing here yet...',
       links: [
-        { text: 'More Info', href: 'https://example.com/project1' },
-        { text: 'GitHub', href: 'https://github.com/chanthakoun2002/game-dev-project-2d-isometric-rpg' }
+        { text: 'More Info', href: 'https://example.com' },
+        { text: 'GitHub', href: '' }
       ]
     },
     {
-      videoSrc: '/videos/GameVid.mp4',
-      description: 'Note: just testing currently',
+      videoSrc: '',
+      description: 'Note: Nothing here yet...',
       links: [
-        { text: 'More Info', href: 'https://example.com/project1' },
-        { text: 'GitHub', href: 'https://github.com/chanthakoun2002/game-dev-project-2d-isometric-rpg' }
+        { text: 'More Info', href: 'https://example.com' },
+        { text: 'GitHub', href: '' }
       ]
     },
     {
-      videoSrc: '/videos/GameVid.mp4',
-      description: 'Note: just testing currently',
+      videoSrc: '',
+      description: 'Note: Nothing here yet...',
       links: [
-        { text: 'More Info', href: 'https://example.com/project1' },
-        { text: 'GitHub', href: 'https://github.com/chanthakoun2002/game-dev-project-2d-isometric-rpg' }
+        { text: 'More Info', href: 'https://example.com' },
+        { text: 'GitHub', href: '' }
       ]
     },
     {
-      videoSrc: '/videos/GameVid.mp4',
-      description: 'Note: just testing currently',
+      videoSrc: '',
+      description: 'Note: Nothing here yet...',
       links: [
-        { text: 'More Info', href: 'https://example.com/project1' },
-        { text: 'GitHub', href: 'https://github.com/chanthakoun2002/game-dev-project-2d-isometric-rpg' }
+        { text: 'More Info', href: 'https://example.com' },
+        { text: 'GitHub', href: '' }
       ]
     },
     

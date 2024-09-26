@@ -5,7 +5,9 @@ const About = () => (
 
     <section id="about" className="about">
       <h2>About Me</h2>
-      <p>I am a recent graduate of Computer science with experience </p>
+      <p>I am a computer science graduate with experience working with multiple programming languages (C#, Java, javascript, HTML, CSS). 
+        And have worked on projects creating Full stack websites, video games in the unity engine, experience working on both SQL
+         and NoSQL database's, and working on server-side application's, and API development.</p>
         <img src="profile.jpg" alt="Profile pic" className="profile-picture" />
     </section>
 
@@ -35,6 +37,14 @@ const About = () => (
         <p><em>2021 - 2024</em></p>
         
       </div>
+      {/* <div className="education-item">
+        
+        <h3>Bachelors in software engineering</h3>
+        <p><strong>Western Governers University</strong>, Salt lake City, UT</p>
+        <p>GPA: 0.0</p>
+        <p><em>2025 - 2027</em></p>
+        
+      </div> */}
     </section>
   </div>
 );
