@@ -17,3 +17,4 @@ This portfolio was built using the following technologies:
 - Responsive design for both desktop and mobile devices.
 - sections showcasing my projects, skills, and experience.
 
+###NOTE: current version not yet ready 9.26.24
