@@ -24,6 +24,11 @@ const About = () => (
         <li>C#</li>
         <li>SQL</li>
         <li>NoSQL</li>
+        <li>React.js</li>
+        <li>Express</li>
+        <li>Vite.js</li>
+        <li>Vue.js</li>
+
       </ul>
     </section>
 
