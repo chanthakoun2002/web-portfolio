@@ -1,7 +1,8 @@
 import React from 'react';
 import ProjectCard from './ProjectCard';
-import Image1  from '../media/GameScreenSwordAdventurer.png';
-import Image2  from '../media/InvenMangApp.png';
+import Image1 from '../media/GameScreenSwordAdventurer.png';
+import Image2 from '../media/InvenMangApp.png';
+import Image3 from '../media/Screenshot 2024-10-05 153128.png';
 
 const Projects = () => {
   const projectData = [
@@ -18,7 +19,7 @@ const Projects = () => {
     {
       title: 'Inventory Management App',
       imgSrc: Image2,
-      info: '(HTML/CSS | Javascript | Bootstrap | Express | MongoDB)', //maybe add logos
+      info: '(HTML/CSS | Javascript | Vite.js | Bootstrap | Express | MongoDB)', //maybe add logos
       description: 'An application for inventory management that allows for creating, reading, updating, and deletion of items. Along with a backend for communication with a database',
       links: [
         // { text: 'More Info', href: 'https://example.com' },
@@ -26,13 +27,12 @@ const Projects = () => {
       ]
     },
     {
-      title: '...',
-      imgSrc: 'https://placehold.co/600x400',
-      info: '....',
-      description: '....',
+      title: 'Web Portfolio',
+      imgSrc: Image3,
+      info: '(HTML/CSS | Javascript | React.js)',
+      description: 'My humble Web Portfolio',
       links: [
-        { text: 'More Info', href: '' },
-        { text: 'GitHub', href: '' }
+        { text: 'GitHub', href: 'https://github.com/chanthakoun2002/web-portfolio' }
       ]
     },
     // {
