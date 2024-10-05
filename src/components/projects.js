@@ -18,7 +18,7 @@ const Projects = () => {
     {
       title: 'Inventory Management App',
       imgSrc: Image2,
-      info: '(HTML/CSS | Javascript | Bootstrap | Express | MongoDB)',
+      info: '(HTML/CSS | Javascript | Bootstrap | Express | MongoDB)', //maybe add logos
       description: 'An application for inventory management that allows for creating, reading, updating, and deletion of items. Along with a backend for communication with a database',
       links: [
         // { text: 'More Info', href: 'https://example.com' },
@@ -35,26 +35,26 @@ const Projects = () => {
         { text: 'GitHub', href: '' }
       ]
     },
-    {
-      title: '...',
-      imgSrc: 'https://placehold.co/600x400',
-      info: '....',
-      description: '....',
-      links: [
-        { text: 'More Info', href: '' },
-        { text: 'GitHub', href: '' }
-      ]
-    },
-    {
-      title: '...',
-      imgSrc: 'https://placehold.co/600x400',
-      info: '....',
-      description: '....',
-      links: [
-        { text: 'More Info', href: '' },
-        { text: 'GitHub', href: '' }
-      ]
-    },
+    // {
+    //   title: '...',
+    //   imgSrc: 'https://placehold.co/600x400',
+    //   info: '....',
+    //   description: '....',
+    //   links: [
+    //     { text: 'More Info', href: '' },
+    //     { text: 'GitHub', href: '' }
+    //   ]
+    // },
+    // {
+    //   title: '...',
+    //   imgSrc: 'https://placehold.co/600x400',
+    //   info: '....',
+    //   description: '....',
+    //   links: [
+    //     { text: 'More Info', href: '' },
+    //     { text: 'GitHub', href: '' }
+    //   ]
+    // },
 
 
     // {

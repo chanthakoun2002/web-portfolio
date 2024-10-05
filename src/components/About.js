@@ -1,18 +1,24 @@
 import React from 'react';
+import ProfileImg  from '../media/20240616_213408314_iOS.jpg';
 
 const About = () => (
   <div className="about-container">
 
     <section id="about" className="about">
-      <h2>About Me</h2>
-      <p>I am a computer science graduate with experience working with multiple programming languages (C#, Java, javascript, HTML, CSS). 
-        And have worked on projects creating Full stack websites, video games in the unity engine, experience working on both SQL
-         and NoSQL database's, and working on server-side application's, and API development.</p>
-        <img src="profile.jpg" alt="Profile pic" className="profile-picture" />
-    </section>
+      <div class="about-left">
+        <h2>About Me</h2>
+          <p>I am a computer science graduate with experience working with multiple programming languages (C#, Java, javascript, HTML, CSS). 
+           And have worked on projects creating Full stack websites, video games in the unity engine, experience working on both SQL
+           and NoSQL database's, and working on server-side application's, and API development.</p>
+      </div>
+      <div class="about-right">
+          <img src={ProfileImg} alt="Profile pic" className="profile-picture" />
+      </div>
+      </section>
 
     <section className="skills">
       <h2>Skills</h2>
+      
       <ul>
         <li>Full Stack Web Development</li>
         <li>API Development</li>
@@ -22,10 +28,10 @@ const About = () => (
         <li>CSS</li>
         <li>Java</li>
         <li>C#</li>
-        <li>SQL</li>
+        <li>MySQL</li>
         <li>NoSQL</li>
         <li>React.js</li>
-        <li>Express</li>
+        <li>Express.js</li>
         <li>Vite.js</li>
         <li>Vue.js</li>
 

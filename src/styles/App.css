@@ -104,18 +104,22 @@ nav ul li a:hover {
 .about {
   margin-bottom: 35px;
   padding: 20px;
-  
   background: #f8f9fa;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
 .about p {
   font-size: 18px;
   padding-left: 20px;
   padding-right: 20px;
+  flex: 1;
 }
 .about h2 {
   text-align: center;
+
 }
 
 .skills h2 {
@@ -128,6 +132,7 @@ nav ul li a:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   background-color:#eee;
   display: inline-block;
+  border-radius: 8px;
 }
 
 .skills ul {
@@ -147,9 +152,46 @@ nav ul li a:hover {
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
   flex: 1 1 30%;
   max-width: 30%;
+  text-align: center;
   
   box-sizing: border-box;
 }
+.profile-picture {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* .skills {
+  margin: 50px 0;
+  padding: 40px;
+  box-sizing: border-box;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+  background-color:#eee;
+} */
+
+/* .skills ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+} */
+
+/* .skills ul li {  
+  background: #f0f0f0;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: 2px solid #eee;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+  flex: 1 1 30%;
+  max-width: 30%;
+  
+  box-sizing: border-box;
+} */
 
 .education {
   background-color:#eee;
@@ -231,8 +273,6 @@ nav ul li a:hover {
   margin-right: 15px;
   width: 96%;       
   height: auto;     
-  /* max-width: 100%;   
-  display: block;     */
   
 }
 
@@ -334,7 +374,7 @@ footer {
   text-align: left;
 }
 
-.profile-picture {
+/* .profile-picture {
   width: 150px;
   border-radius: 50%;
   margin-top: 20px;
@@ -367,7 +407,7 @@ footer {
   max-width: 30%;
   
   box-sizing: border-box;
-}
+} */
 
 .featured-projects {
   margin: 50px 0;
@@ -390,9 +430,9 @@ footer {
   box-sizing: border-box;
 } */
 
-.project img {
+/* .project img {
   width: 100%;
-}
+} */
 
 
 
@@ -436,6 +476,16 @@ footer {
     
     
   }
+  /* .skills ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .skills ul li {
+    max-width: 100%;
+    width: 100%;
+    flex: 1;
+  } */
   .logo img {
    display: none;
   }
@@ -452,6 +502,28 @@ footer {
   .hero h2 {
     font-size: 1.5rem;
   }
+  .project-cards {
+    flex-direction: column;
+  }
+
+  .project-card {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+
+    /* project img too large and covers description on small screen */
+  .project-card img {
+    width: 100%;
+    height: auto;
+    max-height: 100px;
+    object-fit: cover;    
+    
+  }
+
+  .project-description {
+    margin-top: 10px;
+  }
+  
   
 }
 
