@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/web-portfolio/static/css/main.ca71d5ab.css",
-    "main.js": "/web-portfolio/static/js/main.86270238.js",
-    "static/js/453.9e9fdf47.chunk.js": "/web-portfolio/static/js/453.9e9fdf47.chunk.js",
-    "static/media/20240616_213408314_iOS.jpg": "/web-portfolio/static/media/20240616_213408314_iOS.ef2047b96824943ee8f2.jpg",
-    "static/media/Screenshot 2024-10-05 153128.png": "/web-portfolio/static/media/Screenshot 2024-10-05 153128.c1e5074e2bfe350a9b90.png",
-    "static/media/GameScreenSwordAdventurer.png": "/web-portfolio/static/media/GameScreenSwordAdventurer.a3063e934ba3e43d2298.png",
-    "static/media/InvenMangApp.png": "/web-portfolio/static/media/InvenMangApp.0ad7ddb7a5e7a82d48c1.png",
-    "index.html": "/web-portfolio/index.html",
-    "main.ca71d5ab.css.map": "/web-portfolio/static/css/main.ca71d5ab.css.map",
-    "main.86270238.js.map": "/web-portfolio/static/js/main.86270238.js.map",
-    "453.9e9fdf47.chunk.js.map": "/web-portfolio/static/js/453.9e9fdf47.chunk.js.map"
+    "main.css": "/static/css/main.228a0554.css",
+    "main.js": "/static/js/main.40020b9c.js",
+    "static/js/453.9e9fdf47.chunk.js": "/static/js/453.9e9fdf47.chunk.js",
+    "static/media/20240616_213408314_iOS.jpg": "/static/media/20240616_213408314_iOS.ef2047b96824943ee8f2.jpg",
+    "static/media/Screenshot 2024-10-05 153128.png": "/static/media/Screenshot 2024-10-05 153128.c1e5074e2bfe350a9b90.png",
+    "static/media/GameScreenSwordAdventurer.png": "/static/media/GameScreenSwordAdventurer.a3063e934ba3e43d2298.png",
+    "static/media/InvenMangApp.png": "/static/media/InvenMangApp.0ad7ddb7a5e7a82d48c1.png",
+    "index.html": "/index.html",
+    "main.228a0554.css.map": "/static/css/main.228a0554.css.map",
+    "main.40020b9c.js.map": "/static/js/main.40020b9c.js.map",
+    "453.9e9fdf47.chunk.js.map": "/static/js/453.9e9fdf47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca71d5ab.css",
-    "static/js/main.86270238.js"
+    "static/css/main.228a0554.css",
+    "static/js/main.40020b9c.js"
   ]
 }

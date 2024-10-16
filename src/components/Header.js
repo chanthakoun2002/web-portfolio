@@ -22,5 +22,3 @@ const Header = () => (
 );
 
 export default Header;
-
-//note: add a collapsibel navbar
