@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d440002a.css",
-    "main.js": "/static/js/main.480d2e7b.js",
+    "main.css": "/static/css/main.228a0554.css",
+    "main.js": "/static/js/main.40020b9c.js",
     "static/js/453.9e9fdf47.chunk.js": "/static/js/453.9e9fdf47.chunk.js",
     "static/media/20240616_213408314_iOS.jpg": "/static/media/20240616_213408314_iOS.ef2047b96824943ee8f2.jpg",
     "static/media/Screenshot 2024-10-05 153128.png": "/static/media/Screenshot 2024-10-05 153128.c1e5074e2bfe350a9b90.png",
     "static/media/GameScreenSwordAdventurer.png": "/static/media/GameScreenSwordAdventurer.a3063e934ba3e43d2298.png",
     "static/media/InvenMangApp.png": "/static/media/InvenMangApp.0ad7ddb7a5e7a82d48c1.png",
     "index.html": "/index.html",
-    "main.d440002a.css.map": "/static/css/main.d440002a.css.map",
-    "main.480d2e7b.js.map": "/static/js/main.480d2e7b.js.map",
+    "main.228a0554.css.map": "/static/css/main.228a0554.css.map",
+    "main.40020b9c.js.map": "/static/js/main.40020b9c.js.map",
     "453.9e9fdf47.chunk.js.map": "/static/js/453.9e9fdf47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d440002a.css",
-    "static/js/main.480d2e7b.js"
+    "static/css/main.228a0554.css",
+    "static/js/main.40020b9c.js"
   ]
 }
