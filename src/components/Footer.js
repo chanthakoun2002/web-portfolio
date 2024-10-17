@@ -4,7 +4,7 @@ import React from 'react';
 
 const Footer = () => (
   <footer className="footer">
-    <p>Made by Andrew Chanthakoun © 2024</p>
+    <p> © Andrew Chanthakoun 2024</p>
     <div className="social-links">
     {/* <h3>Contact Me</h3> */}
       {/* <a href="mailto: Chanthakounandrew@gmail.com">ChanthakounAndrew@gmail.com</a>

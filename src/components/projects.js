@@ -16,10 +16,10 @@ const Projects = () => {
       links: [{ text: 'GitHub', href: 'https://github.com/chanthakoun2002/game-dev-project-2d-isometric-rpg' }],
     },
     {
-      title: 'Inventory Management App',
+      title: 'Inventory Management Web Application',
       images: [Image2],
       info: '(HTML/CSS | Javascript | Vite.js | Bootstrap | Express | MongoDB)',
-      description: 'An app for managing inventory with CRUD operations using NoSQL.',
+      description: 'An app for managing inventory and orders with a backend API for handeling CRUD operation connected to a NoSQL database.',
       links: [{ text: 'GitHub', href: 'https://github.com/chanthakoun2002/Inventory-management-api' }],
     },
     {
@@ -60,7 +60,7 @@ const Projects = () => {
                 className={`accordion-title ${index === activeProjectIndex ? 'active' : ''}`}
                 onClick={() => toggleProject(index)}
               >
-                {project.title} ▼
+                {project.title} ▼ click me
               </div>
               {index === activeProjectIndex && (
                 <div className="accordion-content">
@@ -84,7 +84,7 @@ const Projects = () => {
           ))}
         </div>
 
-        {/* Right-side slideshow */}
+        {/* Right-side slideshow, or at least should be slideshow...*/}
         {activeProjectIndex !== null && (
           <div className="project-details">
             <div className="project-image">

@@ -5,16 +5,16 @@ const About = () => (
   <div className="about-container">
 
     <section id="about" className="about">
-      <div class="about-left">
-        <h2>About Me</h2>
+      <div>
+        <h2>A Little About Me...</h2>
+          <div>
+            <img src={ProfileImg} alt="Profile picture" className="profile-picture" />
+          </div> 
           <p>I am a computer science graduate with experience working with multiple programming languages (C#, Java, javascript, HTML, CSS). 
            And have worked on projects creating Full stack websites, video games in the unity engine, experience working on both SQL
            and NoSQL database's, and working on server-side application's, and API development.</p>
       </div>
-      <div class="about-right">
-          <img src={ProfileImg} alt="Profile pic" className="profile-picture" />
-      </div>
-      </section>
+    </section>
 
     <section className="skills">
       <h2>Skills</h2>

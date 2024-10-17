@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
-import Header from './components/Header';
+import Navbar from './components/navbar';
 import Home from './components/home';
 import About from './components/About';
 import Projects from './components/projects';
@@ -13,7 +13,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Header />
+        <Navbar/>
         <main>
           <Home />
           <About />
