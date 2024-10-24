@@ -22,4 +22,6 @@ This portfolio was built using the following technologies:
 - fix css for smaller screens
 - adjust porject card sizing
 - skills list improvements
+- add more projects...
+
   

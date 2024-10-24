@@ -8,16 +8,10 @@ const Projects = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   const projectData = [
-    {
-      title: '2D Isometric RPG',
-      images: [Image1],
-      info: '(C# | Unity engine)',
-      description: 'An isometric RPG video game built with C# in the Unity engine.',
-      links: [{ text: 'GitHub', href: 'https://github.com/chanthakoun2002/game-dev-project-2d-isometric-rpg' }],
-    },
+    
     {
       title: 'Inventory Management Web Application',
-      images: [Image2],
+      images: [Image2,Image1,Image2],
       info: '(HTML/CSS | Javascript | Vite.js | Bootstrap | Express | MongoDB)',
       description: 'An app for managing inventory and orders with a backend API for handeling CRUD operation connected to a NoSQL database.',
       links: [{ text: 'GitHub', href: 'https://github.com/chanthakoun2002/Inventory-management-api' }],
@@ -28,6 +22,13 @@ const Projects = () => {
       info: '(HTML/CSS | Javascript | React.js)',
       description: 'My humble web portfolio showcasing my projects and skills.',
       links: [{ text: 'GitHub', href: 'https://github.com/chanthakoun2002/web-portfolio' }],
+    },
+    {
+      title: '2D Isometric RPG',
+      images: [Image1],
+      info: '(C# | Unity engine)',
+      description: 'An isometric RPG video game built with C# in the Unity engine.',
+      links: [{ text: 'GitHub', href: 'https://github.com/chanthakoun2002/game-dev-project-2d-isometric-rpg' }],
     },
   ];
 
@@ -54,6 +55,7 @@ const Projects = () => {
       <div className="projects-container">
         {/* Left-side accordion */}
         <div className="projects-list">
+          <h1>More coming soon...</h1>
           {projectData.map((project, index) => (
             <div key={index} className="accordion-item">
               <div
@@ -84,7 +86,6 @@ const Projects = () => {
           ))}
         </div>
 
-        {/* Right-side slideshow, or at least should be slideshow...*/}
         {activeProjectIndex !== null && (
           <div className="project-details">
             <div className="project-image">
