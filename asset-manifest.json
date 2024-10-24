@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.6edb0c7f.css",
-    "main.js": "/static/js/main.7b6cdb17.js",
+    "main.css": "/static/css/main.d35d859b.css",
+    "main.js": "/static/js/main.f4c4eb16.js",
     "static/js/453.9e9fdf47.chunk.js": "/static/js/453.9e9fdf47.chunk.js",
+    "static/media/portolfio-img-1.png": "/static/media/portolfio-img-1.dfe9d000f53af0a18a1b.png",
     "static/media/herobglight.jpg": "/static/media/herobglight.b8550ccde5fb37e09181.jpg",
     "static/media/20240616_213408314_iOS.jpg": "/static/media/20240616_213408314_iOS.ef2047b96824943ee8f2.jpg",
     "static/media/Screenshot 2024-10-05 153128.png": "/static/media/Screenshot 2024-10-05 153128.c1e5074e2bfe350a9b90.png",
     "static/media/GameScreenSwordAdventurer.png": "/static/media/GameScreenSwordAdventurer.a3063e934ba3e43d2298.png",
     "static/media/InvenMangApp.png": "/static/media/InvenMangApp.0ad7ddb7a5e7a82d48c1.png",
+    "static/media/underconstrucntion.jpg": "/static/media/underconstrucntion.ce408bddd82c954b767f.jpg",
     "index.html": "/index.html",
-    "main.6edb0c7f.css.map": "/static/css/main.6edb0c7f.css.map",
-    "main.7b6cdb17.js.map": "/static/js/main.7b6cdb17.js.map",
+    "main.d35d859b.css.map": "/static/css/main.d35d859b.css.map",
+    "main.f4c4eb16.js.map": "/static/js/main.f4c4eb16.js.map",
     "453.9e9fdf47.chunk.js.map": "/static/js/453.9e9fdf47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6edb0c7f.css",
-    "static/js/main.7b6cdb17.js"
+    "static/css/main.d35d859b.css",
+    "static/js/main.f4c4eb16.js"
   ]
 }
