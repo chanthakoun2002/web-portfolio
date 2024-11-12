@@ -1,4 +1,4 @@
-# My Web Portfolio
+# My Web Portfolio V2
 
 Welcome to my personal web portfolio! This project showcases my skills, projects, and experience as a developer.
 
@@ -17,11 +17,5 @@ This portfolio was built using the following technologies:
 - Responsive design for both desktop and mobile devices.
 - sections showcasing my projects, skills, and experience.
 
-### current version 10.5.24 ready for viewing
-#### to do list
-- fix css for smaller screens
-- adjust porject card sizing
-- skills list improvements
-- add more projects...
 
   
