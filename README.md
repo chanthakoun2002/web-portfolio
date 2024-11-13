@@ -3,7 +3,7 @@
 Welcome to my personal web portfolio! This project showcases my skills, projects, and experience as a developer.
 
 ## Live Site
-Check out the live version of my portfolio here: [https://www.andrewchanthakoun.com/](https://www.andrewchanthakoun.com/)
+Check out the live version of my portfolio here: (currently unpublished) for new version go to: [https://github.com/chanthakoun2002/web-portfolio-v2](https://github.com/chanthakoun2002/web-portfolio-v2)
 
 ## Technologies Used
 This portfolio was built using the following technologies:
